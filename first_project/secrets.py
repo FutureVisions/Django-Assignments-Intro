@@ -1,1 +1,0 @@
-SECRET_KEY ='5-n(y$o3y6%5s)kvsx-m7a=x)uedzc%)ea%jh9foee)x$(z2wi'
